@@ -1,0 +1,6 @@
+Model,R² Score,RMSE
+Linear Regression,0.71,0.03
+Decision Tree,0.295,0.048
+Random Forest,0.656,0.033
+Support Vector Regressor,0.515,0.039
+KNN Regressor,0.622,0.035
