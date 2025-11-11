@@ -9,6 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.svm import SVR
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.metrics import r2_score, mean_squared_error
+# pip install pandas numpy scikit-learn
 
 # -----------------------------
 # Load Data
@@ -86,3 +87,4 @@ def main():
 # -----------------------------
 if __name__ == "__main__":
     main()
+
